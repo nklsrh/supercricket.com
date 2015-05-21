@@ -1,0 +1,3 @@
+27,This update fixes a game-breaking bug in World Championship, and more fixes:
+- XP list animates correctly after each match
+- Fixed crash during World Championship matches
