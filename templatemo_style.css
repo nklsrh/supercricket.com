@@ -21,11 +21,13 @@ body {
 	font-family: Forque, Helvetica, Arial;
 	font-size: 20px;
 	line-height: 1.2em; 
-	background-color: #fff;
-	background-image: url(images/grass.png);
-	background-repeat: repeat;
-	background-position: center 28%;
+	background-color: #50800A;
+	background-image: url(screenshots/screenshot21.jpg);
+	background-repeat: no-repeat;
+	background-position: center center;
 	background-attachment: fixed;
+	background-size: cover;
+	
 }
 
 a, a:link, a:visited { color: #bfb839; font-weight: 400; text-decoration: underline; }
@@ -111,7 +113,7 @@ h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
 
 .content_top { clear: both; height: 10px }
 .content_box { position: relative; margin-bottom: 30px; padding: 18px 18px 78px 78px; background: #4e6f00;
-	background-image: url(images/bg2.png); }
+	background-image: url(screenshots/screenshot21.jpg); background-repeat: no-repeat;}
 
 .content_box img {
 margin: auto;
