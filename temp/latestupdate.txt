@@ -1,3 +1,7 @@
-27|This update fixes a game-breaking bug in World Championship, and more fixes:
-- XP list animates correctly after each match
-- Fixed crash during World Championship matches
+29|Price-drops for all NPL teams!
+- Squad Editing
+- Field Changes every over
+- Brand new, shiny menus
+- Fixed some targets being too high
+- Fixed back button erratic behaviour
+- Fixed UI in post-celebration screen
