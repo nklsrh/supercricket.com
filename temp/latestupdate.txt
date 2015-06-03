@@ -1,6 +1,5 @@
-29|Price-drops for all NPL teams!
+30|Fixed some targets being unrealistic (Legend)
+- Price-drops for all NPL teams!
 - Squad Editing
 - Field Changes every over
-- Brand new, shiny menus
-- Fixed some targets being too high
 - Fixed back button erratic behaviour
