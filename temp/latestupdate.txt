@@ -4,4 +4,3 @@
 - Brand new, shiny menus
 - Fixed some targets being too high
 - Fixed back button erratic behaviour
-- Fixed UI in post-celebration screen
