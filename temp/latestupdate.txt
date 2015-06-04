@@ -1,5 +1,5 @@
-30|Fixed some targets being unrealistic (Legend)
+31|Fixed bug where teams get switched in finals
+- Fixed some targets being unrealistic (Legend)
 - Price-drops for all NPL teams!
 - Squad Editing
 - Field Changes every over
-- Fixed back button erratic behaviour
