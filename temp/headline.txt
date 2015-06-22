@@ -1,4 +1,4 @@
 22 June 2015 - Exam time!
 
+Fielding is fixed! Update to version 33 now!
 I'm currently doing my university exams, so the next update will be ready by The Ashes! 
-Update 33 should be live at 1200 GMT, which will fix the silly fielding behaviours!

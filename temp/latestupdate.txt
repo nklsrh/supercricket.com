@@ -1,4 +1,4 @@
-32|Fixed post-match crashes
+33|Fielding Fixed!
+- Also fixed post-match crashes
 - Fixed some targets being unrealistic (Legend)
-- Fielding 2.0 changes to improve fielders
 - Added newsfeed to help keep you updated with info
