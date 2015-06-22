@@ -1,5 +1,4 @@
-31|Fixed bug where teams get switched in finals
+32|Fixed post-match crashes
 - Fixed some targets being unrealistic (Legend)
-- Price-drops for all NPL teams!
-- Squad Editing
-- Field Changes every over
+- Fielding 2.0 changes to improve fielders
+- Added newsfeed to help keep you updated with info
