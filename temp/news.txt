@@ -1,9 +1,20 @@
+22 June 2015 - Fielding 2.0 update
+
+I've upgraded the fielders so they should chase the ball much better now.
+However, all the fielders run towards the ball. A lot of you think that looks silly, so 
+I'm thinking of changing that.
+
+What do you think? Click the feedback button below and please let me know!
+
+---
+
 22 June 2015 - Exam time!
 
 I'm currently doing my university exams, so there won't be an update for a couple of weeks.
 The next update will be ready by The Ashes, adding your favourite 1v1 test series to the game!
 
 ---
+
 22 June 2015 - Quick-fix update
 
 This update fixes issues with Asus phones and others that crash after every match ends.
