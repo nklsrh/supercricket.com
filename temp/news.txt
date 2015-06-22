@@ -1,10 +1,11 @@
 22 June 2015 - Fielding 2.0 update
 
+The new update, version 33, should be out at 1200 GMT today.
+
 I've upgraded the fielders so they should chase the ball much better now.
 However, all the fielders run towards the ball. A lot of you think that looks silly, so 
-I'm thinking of changing that.
+I'm changing that.
 
-What do you think? Click the feedback button below and please let me know!
 
 ---
 
