@@ -1,6 +1,9 @@
 23 June 2015 - Asia Cup bug fix
 
 In Asia Cup final, there is a bug which doesn't allow you to progress through. Please download update 35 which should fix the issue.
+
+---
+
 23 June 2015 - Asia Cup!
 
 I've added a small Asia Cup update as a thank you for your patience.
