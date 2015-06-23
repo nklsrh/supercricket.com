@@ -1,7 +1,15 @@
+23 June 2015 - Asia Cup!
+
+I've added a small Asia Cup update as a thank you for your patience.
+The game was temporarily broken for a day as I upgraded the fielders, but it should work fine now.
+Everyone who updates to version 34 should get a one-time 250CR gift!
+
+---
+
 23 June 2015 - Fielding 2.1 update!
 
 There seems to be a problem where you can't score many singles or doubles
-due to the speed of the fielders. I've fixed that in update 34, which will be published today.
+due to the speed of the fielders. I've fixed that in update 34, available now.
 
 ---
 
