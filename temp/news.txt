@@ -1,3 +1,10 @@
+23 June 2015 - Fielding 2.1 update!
+
+There seems to be a problem where you can't score many singles or doubles
+due to the speed of the fielders. I've fixed that in update 34, which will be published today.
+
+---
+
 22 June 2015 - Fielding 2.0 update
 
 The new update, version 33, should be out at 1200 GMT today.

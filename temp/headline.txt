@@ -1,5 +1,5 @@
-- Update to version 33!
-All fielding issues in version 32 are fixed! Sorry about the broken update...
+- Update 34 "Asia Cup"
+Easier to score 1s and 2s. Adds Asia Cup. Everyone who updates to v34 will get 250CR free!
 
 - Exam time!
 I'm currently doing my university exams, so the next update will be ready by The Ashes! 
