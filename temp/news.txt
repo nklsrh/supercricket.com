@@ -1,3 +1,10 @@
+1 July 2015 - Exams over!
+
+Thanks for being patient. I haven't had time to answer feedback emails or work on the game in the last week, but development is in full swing now!
+I'm currrently working on The Ashes and will also optimise the game to use less CPU and memory, making your devices less hot!
+
+---
+
 23 June 2015 - Asia Cup bug fix
 
 In Asia Cup final, there is a bug which doesn't allow you to progress through. Please download update 35 which should fix the issue.

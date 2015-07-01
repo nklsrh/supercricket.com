@@ -2,5 +2,5 @@
 Easier to score 1s and 2s. Adds Asia Cup. Everyone who updates to v34 will get 250CR free!
 Asia Cup has a bug when reaching the final. Update 35 fixes the issue.
 
-- Exam time!
-I'm currently doing my university exams, so the next update will be ready by The Ashes! 
+- Exams Over!
+Thanks for being patient. Development is back in full swing now!
