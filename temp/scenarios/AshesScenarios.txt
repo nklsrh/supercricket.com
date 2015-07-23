@@ -76,7 +76,7 @@
 	{
       "name": "Watto's Wonderful Comeback",
 	  "matchID": "2015_Ashes_Day3_Watto",
-	  "version": 1,
+	  "version": 3,
 	  "subtitle": "With Australia teetering on 264/5 after Day 2, use Shane Watson to overcome England's first inning score of 430",
       "chasing": 27,
       "defending": 28,
@@ -125,7 +125,7 @@
 			"value": 10
 		}		
 	  ]
-	  "starsRequired": 0,
+	  "starsRequired": 2,
 	  "starGoals": [
 		{
 			"type": "PlayerScore",
@@ -146,7 +146,7 @@
 	{
       "name": "Wood and the other tailender",
 	  "matchID": "2015_Ashes_Day4_WoodTailender",
-	  "version": 1,
+	  "version": 2,
 	  "subtitle": "From 237/9, score 300 with the two tail-enders",
       "chasing": 28,
       "defending": 27,
@@ -192,7 +192,7 @@
 			"value": 10
 		}		
 	  ]
-	  "starsRequired": 0,
+	  "starsRequired": 6,
 	  "starGoals": [
 		{
 			"type": "BallsTaken",
