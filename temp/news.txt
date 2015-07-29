@@ -1,3 +1,10 @@
+29 July 2015 - Ashes Update messed up
+
+Apologies, there's a couple of issues with version 39 that make it hard to play the game due to freezes.
+There will be a version 40 update today to fix those issues.
+
+---
+
 29 July 2015 - Ashes Update imminent!
 
 Join the BETA community to get early versions of the Ashes Scenarios! 
