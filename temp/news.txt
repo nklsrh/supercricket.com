@@ -1,3 +1,9 @@
+30 July 2015 - Update 39/40 Backlash
+
+A number of users have issues with this update, so I will issue v41 which will return the game to its former state.
+
+---
+
 29 July 2015 - Ashes Update messed up
 
 Apologies, there's a couple of issues with version 39 that make it hard to play the game due to freezes.

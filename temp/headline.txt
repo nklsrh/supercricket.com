@@ -1,2 +1,2 @@
-- ASHES UPDATE VERSION 40 imminent
-Version 40 fixes some game-breaking bugs in version 39. Apologies for the inconvenience.
+- Update 39/40 Backlash
+A number of users have issues with this update, so I will issue v41 which will return the game to its former state.
