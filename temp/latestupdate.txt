@@ -1,1 +1,4 @@
-38|
+42|Ashes update fixes
+- Fixed matches end in ties
+- Fixed ability to change difficulty
+- Fixed Ashes scenario teams
