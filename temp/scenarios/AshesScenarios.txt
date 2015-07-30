@@ -76,7 +76,7 @@
 	{
       "name": "Watto's Wonderful Comeback",
 	  "matchID": "2015_Ashes_Day3_Watto",
-	  "version": 3,
+	  "version": 4,
 	  "subtitle": "With Australia teetering on 264/5 after Day 2, use Shane Watson to overcome England's first inning score of 430",
       "chasing": 27,
       "defending": 28,
@@ -97,6 +97,7 @@
             [27, 33, 56, 5, 0, 47, 355],
             [16, 38, 52, 4, 0, 47, 47],
             [354, 31, 75, 6, 0, 357, 48],
+            [22, 0, 0, 0, 0, 0, 0],
             [30, 29, 51, 1, 0, 0, 0],
             [349, 6, 23, 0, 0, 0, 0],
             [24, 0, 0, 0, 0, 0, 0],
