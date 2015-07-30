@@ -1,2 +1,2 @@
 - Update 39/40 Backlash
-A number of users have issues with this update, so I will issue v41 which will return the game to its former state.
+A number of users have issues with this update, so I have submitted v42 which has fixed difficulty, and reverted the gameplay back to how it was in v35.
