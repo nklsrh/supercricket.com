@@ -1,5 +1,4 @@
-43|Ashes update fixes
-- Fixed issue where the last ball is skipped
-- Fielders now drop the ball sometimes
-- Fixed Ashes scenario issues 
-- More performance optimisation for low-end devices
+46|WORLD T2 CHAMPIONSHIP!
+- Netherlands and Nepal teams
+- Fixes bugs with semi-finals in IPL
+- Fixes bugs with last-ball wins

@@ -1,3 +1,13 @@
+1 October 2015 - Update 46
+
+This update adds the WORLD T2 championship
+- Play with the new Netherlands and Nepal teams
+- Also adds a scenario to Ashes
+- Fixes bugs with semi-finals in IPL
+- Fixes bugs with last-ball wins
+
+---
+ 
 3 August 2015 - Update 43 
 
 This update fixes some issues with update 42

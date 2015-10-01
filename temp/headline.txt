@@ -1,5 +1,5 @@
-- Update 43 is now available!
-Fixes issue where the last ball is skipped
-Asus ZenFone should now be able to tap and start the game
-Fixed Ashes scenario issues 
-More performance optimisation for low-end devices
+- Update 46 is out!
+WORLD T2 championship
+Netherlands and Nepal teams
+Fixes bugs with semi-finals in IPL
+Fixes bugs with last-ball wins
