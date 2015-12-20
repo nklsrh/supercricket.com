@@ -1,3 +1,17 @@
+21 December 2015 - AUSSIE BASH IS HERE!
+
+Download the latest update to play with your favourite Australian teams!
+Now also includes a 'News Ticker' feature with Man-Of-The-Match updates.
+The update also fixes issues with the Tutorial, Nets practice, and any issues with certain devices such as the Galaxy S6.
+
+---
+
+14 December 2015 - Aussie Bash update launching this week on BETA
+
+Join the beta group on Google+ to get early access to the Aussie Bash content!
+
+---
+
 7 December 2015 - AUSSIE BASH IS COMING!
 
 The next update will add the AUSSIE BASH tournament featuring your favourite stars from Down Under.
@@ -14,8 +28,8 @@ This update adds the WORLD T2 championship
 - Fixes bugs with last-ball wins
 
 ---
- 
-3 August 2015 - Update 43 
+
+3 August 2015 - Update 43
 
 This update fixes some issues with update 42
 - Fixed issue where the last ball is skipped
@@ -43,7 +57,7 @@ There will be a version 40 update today to fix those issues.
 
 29 July 2015 - Ashes Update imminent!
 
-Join the BETA community to get early versions of the Ashes Scenarios! 
+Join the BETA community to get early versions of the Ashes Scenarios!
 Search "Super Cricket" on Google+ and find the community!
 
 ---
@@ -95,7 +109,7 @@ due to the speed of the fielders. I've fixed that in update 34, available now.
 The new update, version 33, should be out at 1200 GMT today.
 
 I've upgraded the fielders so they should chase the ball much better now.
-However, all the fielders run towards the ball. A lot of you think that looks silly, so 
+However, all the fielders run towards the ball. A lot of you think that looks silly, so
 I'm changing that.
 
 
@@ -112,5 +126,5 @@ The next update will be ready by The Ashes, adding your favourite 1v1 test serie
 
 This update fixes issues with Asus phones and others that crash after every match ends.
 It also makes fielder movements a little less stupid!
-I have begun work on 2 brand-new game modes that everyone should be able to enjoy! 
+I have begun work on 2 brand-new game modes that everyone should be able to enjoy!
 More news coming soon...
