@@ -1,4 +1,5 @@
-48|AUSSIE BASH!
+53|AUSSIE BASH!
 - Play as your favourite stars from Down Under
 - News Ticker with Man-of-the-Match feature
 - Now works on Galaxy S6 devices
+
