@@ -1,5 +1,3 @@
-{
-  "version": 1,
-  "plak": true,
-  "adv": true
-}
+version,1
+plak,true
+adv,true
