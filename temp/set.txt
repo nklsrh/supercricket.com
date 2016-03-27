@@ -1,5 +1,5 @@
-version,3
-plak,true
+version,4
+plak,false
 adv,true
 admodulo,1
 supsoni,44b833cd
@@ -8,3 +8,4 @@ fybe,42309
 adovrmodulo,2
 mbaig,3
 ibfa,0
+cdl,3
