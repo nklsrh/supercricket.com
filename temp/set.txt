@@ -1,7 +1,7 @@
 version,5
 plak,false
 adv,true
-admodulo,2
+admodulo,1
 supsoni,44b833cd
 admo,ca-app-pub-7101118121923179/3504659743
 fybe,42309
