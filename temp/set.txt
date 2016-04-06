@@ -9,5 +9,5 @@ adovrmodulo,5
 mbaig,3
 ibfa,1
 cdl,3
-afm,1
+afm,2
 wt20hsthre,30
