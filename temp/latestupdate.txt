@@ -1,1 +1,4 @@
-62|SUBCONTINENT vs WORLD!
+69|World T20 2016
+- Daily batting leaderboards!
+- Bugfixes for semi-final issues
+- Latest squads!
