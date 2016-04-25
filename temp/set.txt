@@ -1,12 +1,12 @@
-version,7
-plak,true
+version,8
+plak,false
 adv,true
 admodulo,1
 supsoni,44b833cd
 admo,ca-app-pub-7101118121923179/3504659743
 fybe,42309
 adovrmodulo,12
-mbaig,3
+mbaig,1
 ibfa,1
 cdl,3
 afm,1
