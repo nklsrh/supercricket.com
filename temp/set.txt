@@ -1,4 +1,4 @@
-version,11
+version,12
 plak,false
 adv,true
 admodulo,1
@@ -8,8 +8,8 @@ admo,ca-app-pub-7101118121923179/3504659743
 admos,ca-app-pub-7101118121923179/9127973742
 fybe,42309
 adovrmodulo,12
-mbaig,1
-ibfa,1
+mbaig,0
+ibfa,0
 cdl,3
 afm,1
 wt20hsthre,30
