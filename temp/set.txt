@@ -1,4 +1,4 @@
-version,16
+version,17
 plak,false
 adv,true
 admodulo,1
@@ -11,4 +11,3 @@ ibfa,1
 cdl,3
 afm,1
 wt20hsthre,30
-w,w
