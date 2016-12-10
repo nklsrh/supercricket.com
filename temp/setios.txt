@@ -4,7 +4,7 @@ adv,true
 admodulo,1
 supsoni,44b833cd
 supsonis,59b514ed
-admo,ca-app-pub-7101118121923179/3504659743
+admo,ca-app-pub-7101118121923179/9127973742
 admos,ca-app-pub-7101118121923179/9127973742
 fybe,42309
 adovrmodulo,12
@@ -13,3 +13,4 @@ ibfa,1
 cdl,3
 afm,1
 wt20hsthre,30
+frp,0

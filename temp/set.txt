@@ -13,3 +13,4 @@ ibfa,1
 cdl,3
 afm,1
 wt20hsthre,30
+frp,0
