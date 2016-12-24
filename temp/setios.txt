@@ -5,7 +5,6 @@ admodulo,1
 supsoni,44b833cd
 supsonis,59b514ed
 admo,ca-app-pub-7101118121923179/9127973742
-admos,ca-app-pub-7101118121923179/9127973742
 fybe,42309
 adovrmodulo,12
 mbaig,1
