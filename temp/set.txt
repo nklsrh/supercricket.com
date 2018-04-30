@@ -11,7 +11,7 @@ adovrmodulo,999
 mbaig,2
 ibfa,100
 cdl,5
-afm,2
+afm,3
 crosspromomod,3
 crosspromooff,1
 wt20hsthre,30
