@@ -1,14 +1,14 @@
-version,24
+version,25
 plak,false
 adv,true
-admodulo,2
+admodulo,200
 supsoni,44b833cd
 supsonis,59b514ed
 admo,ca-app-pub-7101118121923179/3504659743
 fybe,42309
 fmo,905271
 adovrmodulo,999
-mbaig,2
+mbaig,999
 ibfa,100
 cdl,5
 afm,3
